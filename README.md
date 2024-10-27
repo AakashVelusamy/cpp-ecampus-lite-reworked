@@ -5,7 +5,7 @@
 - **Kabilan S** – 23PT14
 
 ## Overview
-The **PSG eCAMPUS LITE** project aims to recreate the functionality of the existing eCampus website of PSG College of Technology through a simplified, object-oriented software application. This implementation focuses on managing essential student information and academic activities, providing a user-friendly interface while adhering to core principles of **Object-Oriented Programming (OOP)**.
+The **PSG eCAMPUS LITE** project aims to recreate the functionality of the existing eCampus website of PSG College of Technology through a simplified, object-oriented program. This implementation focuses on managing essential student information and academic activities, providing a user-friendly interface while adhering to core principles of **Object-Oriented Programming (OOP)**.
 
 The project seeks to replicate the primary features of the original eCampus platform, including student information management, course enrollment, attendance tracking, and performance evaluation. By utilizing OOP concepts such as encapsulation, inheritance, and polymorphism, the application is designed to be modular and maintainable, facilitating future enhancements.
 
