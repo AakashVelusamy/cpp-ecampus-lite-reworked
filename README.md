@@ -20,10 +20,10 @@ The project seeks to replicate the primary features of the original eCampus plat
 
 ### Core Features
 - **Course Management**  
-  The application dynamically assigns courses based on the student's roll number classification, ensuring that students can access relevant course information tailored to their specific department.
+  The project dynamically assigns courses based on the student's roll number classification, ensuring that students can access relevant course information tailored to their specific department.
 
 - **Attendance Tracking**  
-  Attendance data is managed through file handling techniques that allow students to view their attendance records efficiently. The application reads from external files to retrieve attendance information linked to each student.
+  Attendance data is managed through file handling techniques that allow students to view their attendance records efficiently. The project reads from external files to retrieve attendance information linked to each student.
 
 - **Performance Evaluation**  
   Students can view their CA Marks through dedicated methods that process data from external files.
