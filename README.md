@@ -1,5 +1,9 @@
 # PSG eCAMPUS LITE
 
+**Developed by:**
+- **Aakash Velusamy** – 23PT01
+- **Kabilan S** – 23PT14
+
 ## Overview
 The **PSG eCAMPUS LITE** project aims to recreate the functionality of the existing eCampus website of PSG College of Technology through a simplified, object-oriented software application. This implementation focuses on managing essential student information and academic activities, providing a user-friendly interface while adhering to core principles of **Object-Oriented Programming (OOP)**.
 
