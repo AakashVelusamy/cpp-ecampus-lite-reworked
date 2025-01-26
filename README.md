@@ -1,4 +1,4 @@
-# PSG eCAMPUS LITE
+# PSG eCampus Lite
 
 **Developed by:**
 - **Aakash Velusamy** – 23PT01
